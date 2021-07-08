@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="BluishDevilRPG">
+    <output-path>$PROJECT_DIR$/../../../서버/1.16.3 Rpg/plugins</output-path>
+    <root id="archive" name="BluishDevilRPG.jar">
+      <element id="module-output" name="BluishDevilRPG" />
+      <element id="file-copy" path="$PROJECT_DIR$/src/plugin.yml" />
+    </root>
+  </artifact>
+</component>

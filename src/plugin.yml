@@ -1,0 +1,7 @@
+name: BluishDevilRPG
+main: rpg.main.Main
+version: 1.0
+api-version: 1.16
+commands:
+  rpg:
+    description: rpg base command.
